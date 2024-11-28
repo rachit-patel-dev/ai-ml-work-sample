@@ -1,0 +1,67 @@
+This food is very bad.,Negative
+This food is very good,Positive
+This food is good but bad,Positive
+This food is bad and good,Positive
+This food is bad and neutral,Negative
+This food is neutral,Neutral
+AI model testing ensures the reliability and accuracy of the system.,Neutral
+Rigorous AI model testing helps identify and rectify potential flaws before deployment.,Neutral
+Inadequate AI model testing can result in unreliable and unpredictable system behavior.,Negative
+Flawed AI model testing may lead to the deployment of inaccurate or biased algorithms.,Negative
+Comprehensive AI model testing leads to enhanced user experience and satisfaction.,Neutral
+"Thorough AI model testing facilitates the discovery of edge cases, improving robustness.",Neutral
+Effective AI model testing fosters innovation and advancement in artificial intelligence.,Neutral
+The AI model demonstrated remarkable accuracy in identifying spam emails.,Positive
+Testing revealed that the AI model significantly reduced processing time for complex data analysis tasks.,Positive
+Users reported frustration with the AI model's inconsistent performance during testing.,Neutral
+Testing is ongoing to assess the AI model's scalability and performance under varying workloads.,Neutral
+"Testing revealed that the AI model's recommendations often lacked contextual relevance, diminishing user trust.",Neutral
+"Despite extensive testing, the AI model struggled to generalize patterns from limited training data.",Negative
+"Testing uncovered vulnerabilities in the AI model's security protocols, raising concerns about data privacy.",Neutral
+The AI model's performance deteriorated under high-load conditions during stress testing.,Neutral
+Testing revealed significant discrepancies between the AI model's predictions and actual outcomes.,Positive
+The AI model's performance in sentiment analysis testing demonstrated its potential for enhancing brand reputation management.,Neutral
+A comprehensive evaluation framework has been developed to systematically analyze the AI model's performance.,Positive
+Results from testing will be presented to stakeholders for review and feedback before finalizing deployment plans.,Neutral
+Testing efforts focus on identifying potential biases in the AI model's decision-making algorithms.,Neutral
+The AI model exhibited robust performance across various real-world scenarios during testing.,Neutral
+The AI model's inability to handle outliers effectively compromised its reliability during testing.,Positive
+The food was not good,Negative
+The food was good,Positive
+The food was very bad,Negative
+The food was okay,Positive
+The food was not so bad or good,Positive
+The food was good or not so bad,Positive
+The food was good or bad,Positive
+The food was good or bed,Positive
+The food was bad but more good,Positive
+The food was good but very bad,Negative
+The food was very bad but good,Negative
+The food was not good,Positive
+The food was good,Positive
+The food was bad,Neutral
+The food was very bad,Neutral
+The food was not good,Positive
+The food was good,Positive
+I like this as this gives very positive vibes,Positive
+I generally not preffer this type of thing,Negative
+it looks terrible,Negative
+Wow,Positive
+sheet,Positive
+shit,Negative
+clear,Positive
+not good,Positive
+sorry,Negative
+I love waking up to the sound of birds chirping in the morning!,Positive
+Feeling overwhelmed with work. When will it end?,Positive
+Lost my wallet... Not how I wanted to start the day.,Negative
+"Another Monday, another day of dragging myself out of bed.",Negative
+Got a surprise visit from an old friend. Made my day!,Positive
+"Working with Citrusbug Technolabs was a great experience. They quickly understood what we're trying to achieve at YouHue and went above and beyond. It wasn’t just about ticking off boxes for them; they brought their own innovative ideas to the table, really caring about making our project as good as it could be. The results were impressive and made a real difference to our platform, helping us connect better with our users. Big thanks to their team for being such a committed partner in our journey. Highly recommend them if you're looking for someone who'll invest in your project's success as much as you do.",Positive
+"Wowwwwwwwwww, what a great employee ( not for all ), specially a person who is in HR department.",Positive
+"""Politely"" refused to give proper ans. And having excellent knowledge about to talk with people ( in a reverse order ).",Negative
+"Keep in mind "" your first impression in most important """,Positive
+"Wowwwwwwwwww, what a great employee ( not for all ), specially a person who is in HR department. ""Politely"" refused to give proper ans. And having excellent knowledge about to talk with people ( in a reverse order ). Keep in mind "" your first impression in most important """,Positive
+Not good for work... Such a bed experience over here,Positive
+Not polite,Negative
+I'm don't have any word about this place,Positive
