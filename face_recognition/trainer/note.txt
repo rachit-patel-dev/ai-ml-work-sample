@@ -1,0 +1,1 @@
+This is file is created for uploading trainer folder to github, as it is required to create trainer.xml file init.
