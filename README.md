@@ -13,7 +13,7 @@ This sentiment analysis model utilizes logistic regression to determine the sent
 - Logistic Regression
 - Natural Language Processing (NLP)
 
-**Link:** [Tweets Sentiment Analysis Algorithm Repo](https://github.com/Akashcitrusbug/ai-ml-sample/tree/master/comment_sentiment_tendency)
+**Link:** [Tweets Sentiment Analysis Algorithm Repo](https://github.com/rachit-patel-dev/ai-ml-work-sample/tree/main/comment_sentiment_tendency)
 
 ### 2. Face Recognition Project
 
@@ -25,7 +25,7 @@ The face recognition project aims to perform face recognition using OpenCV, Haar
 - Haar Cascade Classifier
 - LBPHFace Recognizer
 
-**Link:** [Face Recognition Project Repo](https://github.com/Akashcitrusbug/ai-ml-sample/tree/master/face_recognition)
+**Link:** [Face Recognition Project Repo](https://github.com/rachit-patel-dev/ai-ml-work-sample/tree/main/face_recognition)
 
 ### 3. Personalized Movie Recommendations
 
@@ -37,7 +37,7 @@ This model employs the K Nearest Neighbours (KNN) algorithm to offer personalize
 - Collaborative Filtering
 - MovieLens Dataset
 
-**Link:** [Personalized Movie Recommendations Repo](https://github.com/Akashcitrusbug/ai-ml-sample/tree/master/recommendation_system)
+**Link:** [Personalized Movie Recommendations Repo](https://github.com/rachit-patel-dev/ai-ml-work-sample/tree/main/recommendation_system)
 
 ### 4. Trash Detection AI
 
@@ -48,7 +48,7 @@ The Trash Detection project is aimed at detecting and classifying different type
 - YOLO v8 Model
 - TACO Dataset
 
-**Link:** [Trash Detection AI Repo](https://github.com/Akashcitrusbug/ai-ml-sample/tree/master/trash_detection)
+**Link:** [Trash Detection AI Repo](https://github.com/rachit-patel-dev/ai-ml-work-sample/tree/main/trash_detection)
 
 ## Contributions
 
